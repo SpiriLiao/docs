@@ -76,7 +76,7 @@ msgid ""
 "``insertData()`` JavaScript function, shown here, creates new data for use in testing or "
 "training by either creating a new collection or appending data to an existing collection:"
 msgstr ""
-"您可以再您的脚本会话中创建一个JavaScript函数以生成上述的数据。这里提到的 ``insertData()``  "
+"您可以在您的脚本会话中创建一个JavaScript函数以生成上述的数据。这里提到的 ``insertData()``  "
 "JavaScript函数通过创建一个新的集合或者向现有集合中追加数据来创建新的数据，以用于测试或者训"
 "练。"
 
